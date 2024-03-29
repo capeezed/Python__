@@ -1,2 +1,3 @@
 # Python__
-Python files
+Knowledge adquired in python courses. 
+applied in Pycharm.
